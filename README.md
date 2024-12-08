@@ -38,4 +38,4 @@ dependencies {
     implementation 'com.github.pixiedev:Utils:1.0'
 }
 ```
-# [Documentation](https://pixiedev.gitbook.io/utils)
+[Documentation](https://pixiedev.gitbook.io/utils)
