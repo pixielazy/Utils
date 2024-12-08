@@ -1,6 +1,5 @@
 ![banner.png](banner.png)
 Utils is a library that simplifies your daily tasks.
-# [documentation](https://pixiedev.gitbook.io/utils)
 
 # Featuring
 - Easy to use
@@ -39,3 +38,4 @@ dependencies {
     implementation 'com.github.pixiedev:Utils:1.0'
 }
 ```
+# [Documentation](https://pixiedev.gitbook.io/utils)
