@@ -1,9 +1,10 @@
 ![banner.png](banner.png)
 Utils is a library that simplifies your daily tasks.
+# [documentation](https://pixiedev.gitbook.io/utils)
 
 # Featuring
 - Easy to use
-0 Open source
+- Open source
 - Time formatter
 - ItemStack builder
 - Number utils
@@ -11,9 +12,30 @@ Utils is a library that simplifies your daily tasks.
 - Text formatter
 - Messaging system
 - List utils
+- Gui management
+# Installation
 
-and more to come!
+## Maven
+```xml
+<repository>
+    <id>jitpack.io</id>
+    <url>https://jitpack.io</url>
+</repository>
 
-Gui management
-## <img src='docs.png' width='20' alt="Docs Icon"> Documentation:
-#### https://manered.gitbook.io/utils/getting-started
+<dependency>
+    <groupId>com.github.pixiedev</groupId>
+    <artifactId>Utils</artifactId>
+    <version>1.0</version>
+</dependency>
+```
+
+## Gradle
+```gradle
+repositories {
+    maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+    implementation 'com.github.pixiedev:Utils:1.0'
+}
+```
